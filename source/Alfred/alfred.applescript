@@ -1,1 +1,1 @@
-tell application id "com.runningwithcrayons.Alfred" to search "{popclip text}"
+tell application id "com.runningwithcrayons.Alfred" to search "yvfilter {popclip text}"
